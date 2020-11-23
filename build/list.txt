@@ -8,3 +8,4 @@ linux/mips
 linux/mipsle
 linux/mips64
 linux/mips64le
+darwin/amd64
